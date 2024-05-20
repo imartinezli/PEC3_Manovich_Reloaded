@@ -23,7 +23,7 @@
 
 <img align="right" src="Media/ezgif.com-video-to-gif-converter.gif" alt="Healthy Cities gif" width="460">
 Sanitas, una aseguradora de salud reconocida en España, ha utilizado esta plataforma no solo como una herramienta de promoción de la salud, sino también como una forma de involucrar a la comunidad en actividades colectivas que benefician su bienestar general. La aplicación está disponible para dispositivos iOS y Android y se puede descargar de manera gratuita. 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 
 ### Hibridación según Manovich
