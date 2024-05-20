@@ -51,8 +51,8 @@ Además, la app ha fomentado una mayor conciencia sobre la importancia de la act
 <br>
 
 # Shopify
-<img align="left" src="Media/Shopify.jpg" alt="Shopify" width="600">
-Shopify es una plataforma de comercio electrónico fundada en 2006 que permite a emprendedores y negocios de todos los tamaños crear y gestionar sus propias tiendas en línea de manera fácil y eficiente. Con más de un millón de negocios en más de 175 países, Shopify ha transformado la manera en que se lleva a cabo el comercio minorista, proporcionando una infraestructura completa que incluye diseño de la tienda, gestión de productos, pagos, envíos y análisis de datos.<br><br><br><br><br><br>
+<img align="left" src="Media/Shopify.jpg" alt="Shopify" width="500">
+Shopify es una plataforma de comercio electrónico fundada en 2006 que permite a emprendedores y negocios de todos los tamaños crear y gestionar sus propias tiendas en línea de manera fácil y eficiente. Con más de un millón de negocios en más de 175 países, Shopify ha transformado la manera en que se lleva a cabo el comercio minorista, proporcionando una infraestructura completa que incluye diseño de la tienda, gestión de productos, pagos, envíos y análisis de datos.<br><br><br><br>
 
 La plataforma ofrece una amplia gama de herramientas y aplicaciones integradas que facilitan la personalización y la optimización de las tiendas en línea. Además, Shopify ha desarrollado un ecosistema robusto que incluye desarrolladores, diseñadores y expertos en marketing que contribuyen a mejorar continuamente la experiencia del usuario.<br>
 
